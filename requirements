@@ -1,0 +1,4 @@
+python -m venv myvenv 
+ .\myvenv\Scripts\activate
+ pip install fastapi uvicorn pillow python-dotenv google-generativeai jinja2 python-multipart
+ uvicorn main:app --reload

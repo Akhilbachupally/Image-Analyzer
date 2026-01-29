@@ -1,0 +1,9 @@
+create a folder(image generator)
+        |
+        |
+create two folders
+    |       |
+static    templates
+    |       |
+uploads     main.html
+(folder)
